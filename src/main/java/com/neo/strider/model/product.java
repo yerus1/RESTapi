@@ -6,6 +6,7 @@ import lombok.Setter;
 
 @AllArgsConstructor
 @Getter@Setter
+
 public class product {
     private int id;
     private String productName;
