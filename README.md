@@ -1,7 +1,7 @@
 # REST API
 Spring Boot starter project for hands-on REST API practice
 
-Technologies: [Java, Spring Boot, React, SQL]
+Technologies: [Java, Spring Boot,Postgresql]
 
 ```java
 @Service
