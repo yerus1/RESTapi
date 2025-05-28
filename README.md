@@ -1,8 +1,11 @@
-# REST API
+# Project Name
+REST API
 
-## Spring Boot starter project for hands-on REST API practice.
+## Description
+Spring Boot starter project for hands-on REST API practice.
 
-## Technologies [Java, Spring Boot, SQL, React]
+## Technologies
+[Java, Spring Boot, SQL, React]
 
 ## Code Snippet
 ```java
@@ -19,5 +22,3 @@ public class InventoryService {
         return product.getStockLevel();
     }
 }
-```
-
