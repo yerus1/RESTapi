@@ -1,11 +1,8 @@
-# Project Name
-REST API
+# REST API
 
-## Description
-Spring Boot starter project for hands-on REST API practice.
+## Spring Boot starter project for hands-on REST API practice.
 
-## Technologies
-[Java, Spring Boot, SQL, React]
+## Technologies [Java, Spring Boot, SQL, React]
 
 ## Code Snippet
 ```java
