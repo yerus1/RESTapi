@@ -1,5 +1,25 @@
+# REST API
 
-Spring Boot starter project for hands-on REST API practice
+**Description**: Spring Boot starter project for hands-on REST API practice
+
+**Technologies**: [Java, Spring Boot, SQL, React]
+
+```java
+@Service
+public class InventoryService {
+    @Autowired
+    private ProductRepository productRepo;
+
+    @Transactional
+    public StockLevel updateStock(String productId, int change) {
+        Product product = productRepo.findById(productId).orElseThrow();
+        product.adjustStock(change);
+        productRepo.save(product);
+        return product.getStockLevel();
+    }
+}
+```
+----
 
 GET -> http://localhost:8080/products
 
