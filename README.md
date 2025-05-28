@@ -1,8 +1,8 @@
 # REST API
 
-**Description**: Spring Boot starter project for hands-on REST API practice
+Spring Boot starter project for hands-on REST API practice Sharpen my problem-solving skills. Prepare for coding interviews and high-impact software engineering roles. Prepare for coding interviews and high-impact software engineering roles.
 
-**Technologies**: [Java, Spring Boot, SQL, React]
+Technologies: [Java, Spring Boot, SQL, React]
 
 ```java
 @Service
@@ -20,6 +20,7 @@ public class InventoryService {
 }
 ```
 ----
+
 
 GET -> http://localhost:8080/products
 
