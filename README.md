@@ -8,7 +8,7 @@ Spring Boot starter project for hands-on REST API practice.
 [Java, Spring Boot, SQL, React]
 
 ## Code Snippet
-```java
+```
 @Service
 public class InventoryService {
     @Autowired
