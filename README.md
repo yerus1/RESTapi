@@ -2,7 +2,7 @@
 REST API
 
 ## Description
-Spring Boot starter project for hands-on REST API practice.
+Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.
 
 ## Technologies
 [Java, Spring Boot, SQL, React]
