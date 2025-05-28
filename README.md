@@ -22,3 +22,6 @@ public class InventoryService {
         return product.getStockLevel();
     }
 }
+```
+
+
