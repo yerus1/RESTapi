@@ -1,4 +1,4 @@
- Project[] = [
+const projectsData = Project[] = [
   {
 codeSnippet: 
 `@Service
