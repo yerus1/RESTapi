@@ -5,7 +5,7 @@ REST API
 Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.Illustrative microservice logic for creating e-commerce orders, demonstrating event-driven interaction with services like Payment and Inventory via Kafka.
 
 ## Technologies
-[Java, Spring Boot, SQL, React]
+[Java, Spring Boot, MySQL, React]
 
 ## Code Snippet
 ```java
